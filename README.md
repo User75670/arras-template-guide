@@ -27,7 +27,7 @@ You'll edit these most often:
 
 ## Initial Setup
 
-1. Open a **terminal** in the project directory (in VS Code: `Ctrl+`` or Terminal > New Terminal).
+1. Open a **terminal** in the project directory (in VS Code: `Ctrl+\`` or Terminal > New Terminal).
 2. Run:
 
 ```bash
