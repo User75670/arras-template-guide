@@ -13,7 +13,7 @@
 
 You can either use the template provided above, or use the community forks:
 * [https://github.com/Faris90/arras-template-fullversion](https://github.com/Faris90/arras-template-fullversion)
-* [https://github.com/user75670/ArrasZ](https://github.com/User75670/Arras42) <-- *this is mine*
+* [https://github.com/user75670/Arras42](https://github.com/User75670/Arras42) <-- *this is mine*
 * [https://github.com/antojoarras/cx](https://github.com/antojoarras/cx)
 
 ## Key Files
